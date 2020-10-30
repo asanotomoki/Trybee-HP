@@ -3,6 +3,8 @@ const $close = document.querySelector(".close");
 const $Hamburger = document.querySelector(".Hamburger");
 const $nav = document.querySelector(".nav");
 const $top = document.querySelector(".top");
+const $closeA = document.querySelectorAll(".close-a");
+console.log($closeA);
 
 // menuのアニメーション
 $menu.addEventListener("click", () => {
@@ -12,6 +14,12 @@ $menu.addEventListener("click", () => {
 $close.addEventListener("click", () => {
   $Hamburger.classList.remove("active");
 });
+
+for(let i = 0; i < $closeA.length; i++){
+  $closeA[i].addEventListener("click", () => {
+    $Hamburger.classList.remove("active");
+  });
+}
 
 
 window.addEventListener("scroll", () => {
@@ -50,5 +58,5 @@ $(function(){
   // ドロップダウンメニュー
   $('.drop').on('click', function(){
     $(this).next().slideToggle();
-  })
+  });
 });
