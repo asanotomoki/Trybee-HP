@@ -14,7 +14,7 @@
     display: none;
   }
   header {
-    background: url("./images/first-view__bg.png");
+    background: url("./first-view__bg.png");
     background-size: cover;
     width: 100%;
     height: 100vh;
@@ -62,16 +62,16 @@
   }
   header .nav h1 {
     line-height: 80px;
-    margin-left: 100px;
+    margin-left: 7%;
   }
   header .nav h1 a {
     text-decoration: none;
-    font-size: 40px;
+    font-size: 2.5rem;
     letter-spacing: 3px;
   }
   header .nav nav {
     line-height: 80px;
-    margin-right: 100px;
+    margin-right: 7%;
   }
   header .nav nav ul {
     list-style: none;
@@ -118,7 +118,7 @@
     margin-right: 18px;
   }
   header .nav nav ul li a {
-    font-size: 20px;
+    font-size: 1.25rem;
   }
   header .heading {
     background: rgba(19, 59, 145, 0.6);
@@ -126,17 +126,17 @@
     padding: 75px 60px 45px;
   }
   header .heading p:nth-child(1) {
-    font-size: 28px;
+    font-size: 1.75rem;
   }
   header .heading p:nth-child(2) {
-    font-size: 120px;
+    font-size: 7.5rem;
     border-bottom: 3px solid #fff;
     width: 845px;
     display: inline-block;
     font-weight: bold;
   }
   header .heading p:nth-child(3) {
-    font-size: 20px;
+    font-size: 1.25rem;
     margin-top: 21px;
   }
   header .heading .apply {
@@ -145,7 +145,7 @@
     width: 467px;
     height: 71px;
     display: inline-block;
-    font-size: 24px;
+    font-size: 1.5rem;
     line-height: 71px;
     margin-top: 60px;
     border: 2px solid #133B91;
@@ -199,14 +199,14 @@
     position: absolute;
     top: 40px;
     left: 18px;
-    font-size: 16px;
+    font-size: 1rem;
     color: #1C56B6;
   }
 }
 
 @media (min-width: 769px) and (max-width: 1024px) {
   header {
-    background: url("./images/first-view__bg.png");
+    background: url("./first-view__bg.png");
     background-size: cover;
     background-position: center;
     width: 100%;
@@ -255,16 +255,16 @@
   }
   header .nav h1 {
     line-height: 80px;
-    margin-left: 72px;
+    margin-left: 7%;
   }
   header .nav h1 a {
     text-decoration: none;
-    font-size: 40px;
+    font-size: 2.5rem;
     letter-spacing: 3px;
   }
   header .nav nav {
     line-height: 80px;
-    margin-right: 72px;
+    margin-right: 7%;
   }
   header .nav nav ul {
     list-style: none;
@@ -311,7 +311,7 @@
     margin-right: 15px;
   }
   header .nav nav ul li a {
-    font-size: 16px;
+    font-size: 1rem;
   }
   header .heading {
     background: rgba(19, 59, 145, 0.6);
@@ -319,10 +319,10 @@
     padding: 54px;
   }
   header .heading p:nth-child(1) {
-    font-size: 20px;
+    font-size: 1.25rem;
   }
   header .heading p:nth-child(2) {
-    font-size: 80px;
+    font-size: 5rem;
     border-bottom: 3px solid #fff;
     display: inline-block;
     width: 527px;
@@ -330,14 +330,14 @@
     margin-top: 30px;
   }
   header .heading p:nth-child(3) {
-    font-size: 16px;
+    font-size: 1rem;
     margin-top: 41px;
   }
   header .heading .apply {
     background: #FCD916;
     color: #133B91;
     display: inline-block;
-    font-size: 16px;
+    font-size: 1rem;
     padding: 15px 116px;
     margin-top: 10px;
     border: 2px solid #133B91;
@@ -391,14 +391,14 @@
     position: absolute;
     top: 20px;
     left: 8px;
-    font-size: 12px;
+    font-size: .75rem;
     color: #1C56B6;
   }
 }
 
 @media (min-width: 480px) and (max-width: 768px) {
   header {
-    background: url("./images/first-view__bg.png");
+    background: url(./first-view__bg.png);
     background-position: center;
     background-size: cover;
     height: 100vh;
@@ -467,7 +467,7 @@
     margin-left: 10px;
   }
   header .nav ul .bg .hover {
-    font-size: 16px;
+    font-size: 1rem;
     color: #1C56B7;
     background: #FCD916;
     border: 2px solid #133B91;
@@ -481,7 +481,7 @@
     transition: .5s;
   }
   header .nav ul .bg .twitter {
-    font-size: 16px;
+    font-size: 1rem;
     color: #1C56B7;
     background: #FCD916;
     border: 2px solid #133B91;
@@ -539,7 +539,7 @@
     margin-top: 10px;
   }
   header .nav .Hamburger li a {
-    font-size: 20px;
+    font-size: 1.25rem;
     font-weight: bold;
   }
   header .heading {
@@ -549,16 +549,16 @@
     width: 75%;
   }
   header .heading p:nth-child(1) {
-    font-size: 20px;
+    font-size: 1.25rem;
   }
   header .heading p:nth-child(2) {
-    font-size: 60px;
+    font-size: 3.75rem;
     margin-top: 30px;
     border-bottom: 3px solid #fff;
   }
   header .heading p:nth-child(3) {
     font-size: 11px;
-    margin-top: 25px;
+    margin-top: .68rem;
   }
   header .heading .apply {
     margin-top: 35px;
@@ -619,14 +619,14 @@
     position: absolute;
     top: 20px;
     left: 8px;
-    font-size: 12px;
+    font-size: .75rem;
     color: #1C56B6;
   }
 }
 
 @media (max-width: 480px) {
   header {
-    background: url("./images/first-view__bg.png");
+    background: url(./first-view__bg.png);
     background-position: center;
     background-size: cover;
     height: 100vh;
@@ -694,7 +694,7 @@
     margin-left: 10px;
   }
   header .nav ul .bg .hover {
-    font-size: 16px;
+    font-size: 1rem;
     color: #1C56B7;
     background: #FCD916;
     border: 2px solid #133B91;
@@ -708,7 +708,7 @@
     transition: .5s;
   }
   header .nav ul .bg .twitter {
-    font-size: 16px;
+    font-size: 1rem;
     color: #1C56B7;
     background: #FCD916;
     border: 2px solid #133B91;
@@ -766,7 +766,7 @@
     margin-top: 10px;
   }
   header .nav .Hamburger li a {
-    font-size: 20px;
+    font-size: 1.25rem;
     font-weight: bold;
   }
   header .heading {
@@ -776,16 +776,16 @@
     width: 94.5%;
   }
   header .heading p:nth-child(1) {
-    font-size: 20px;
+    font-size: 1.25rem;
   }
   header .heading p:nth-child(2) {
-    font-size: 60px;
+    font-size: 3.75rem;
     margin-top: 30px;
     border-bottom: 3px solid #fff;
   }
   header .heading p:nth-child(3) {
     font-size: 11px;
-    margin-top: 25px;
+    margin-top: .68rem;
   }
   header .heading .apply {
     margin-top: 35px;
@@ -842,7 +842,7 @@
     position: absolute;
     top: 20px;
     left: 8px;
-    font-size: 12px;
+    font-size: .75rem;
     color: #1C56B6;
   }
 }
@@ -850,10 +850,10 @@
 @media (min-width: 1024px) {
   .about {
     margin-top: 100px;
-    padding: 0 100px;
+    padding: 0 7%;
   }
   .about h2 {
-    font-size: 32px;
+    font-size: 2rem;
     color: #1C56B7;
     margin-left: 30px;
     position: relative;
@@ -867,26 +867,26 @@
     width: calc(100% + 30px);
   }
   .about .aboutHeading {
-    font-size: 28px;
+    font-size: 1.75rem;
     color: #333;
     padding: 0 30px;
     margin-top: 90px;
   }
   .about .aboutDetailes {
     padding: 0 30px;
-    height: 424px;
     margin-top: 100px;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
-    -webkit-box-pack: justify;
-        -ms-flex-pack: justify;
-            justify-content: space-between;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
   }
   .about .aboutDetailes .aboutDetaile {
-    padding: 35px 50px;
+    padding: 2.5% 4%;
     background: #DFEEF4;
     border-radius: 10px;
+    margin: 0 3%;
     height: 100%;
   }
   .about .aboutDetailes .aboutDetaile .detaileHeading {
@@ -900,10 +900,10 @@
     height: 100px;
   }
   .about .aboutDetailes .aboutDetaile .detaileHeading h3 {
-    font-size: 28px;
+    font-size: 1.75rem;
     color: #1C56B7;
     line-height: 100px;
-    margin-left: 30px;
+    margin-left: 4%;
   }
   .about .aboutDetailes .aboutDetaile .detailePoint {
     margin-top: 40px;
@@ -933,7 +933,7 @@
         justify-content: space-around;
   }
   .about .aboutDetailes .aboutDetaile .detailePoint div p {
-    font-size: 18px;
+    font-size: 1.1rem;
     color: #1C56B7;
   }
   .about .aboutDetailes .aboutDetaile .detailePoint div img {
@@ -943,7 +943,7 @@
   .about .aboutDetailes .aboutDetaile .detailePoint .puls {
     width: 25px;
     height: 25px;
-    margin-top: 90px;
+    margin: 90px 2% 0;
   }
   .about .aboutDetailes .bluePuls {
     width: 45px;
@@ -959,7 +959,7 @@
   }
   .about .aboutMaybe p {
     color: #1C56B7;
-    font-size: 28px;
+    font-size: 1.75rem;
     margin-top: 85px;
   }
   .about .aboutMaybe ul {
@@ -969,7 +969,7 @@
   }
   .about .aboutMaybe ul li {
     color: #333;
-    font-size: 24px;
+    font-size: 1.5rem;
     margin-top: 40px;
     display: inline-block;
     position: relative;
@@ -990,7 +990,7 @@
     padding: 0 87px;
   }
   .about h2 {
-    font-size: 24px;
+    font-size: 1.5rem;
     color: #1C56B7;
     margin-left: 15px;
     position: relative;
@@ -1004,7 +1004,7 @@
     width: calc(100% + 15px);
   }
   .about .aboutHeading {
-    font-size: 24px;
+    font-size: 1.5rem;
     color: #141414;
     padding: 0 30px;
     margin-top: 60px;
@@ -1014,9 +1014,9 @@
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
-    -webkit-box-pack: justify;
-        -ms-flex-pack: justify;
-            justify-content: space-between;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
   }
   .about .aboutDetailes .aboutDetaile {
     padding: 15px;
@@ -1033,9 +1033,9 @@
     height: 65px;
   }
   .about .aboutDetailes .aboutDetaile .detaileHeading h3 {
-    font-size: 28px;
+    font-size: 1.6rem;
     color: #1C56B7;
-    margin-left: 20px;
+    margin-left: 10px;
     line-height: 65px;
   }
   .about .aboutDetailes .aboutDetaile .detailePoint {
@@ -1066,7 +1066,7 @@
         justify-content: space-around;
   }
   .about .aboutDetailes .aboutDetaile .detailePoint div p {
-    font-size: 16px;
+    font-size: 1rem;
     color: #1C56B7;
   }
   .about .aboutDetailes .aboutDetaile .detailePoint div img {
@@ -1081,24 +1081,24 @@
   .about .aboutDetailes .bluePuls {
     width: 45px;
     height: 45px;
-    margin-top: 130px;
+    margin: 130px 10px 0;
   }
   .about .aboutMaybe {
     margin: 100px auto 0;
     border: 15px solid #1C56B7;
     text-align: center;
-    padding: 65px 126px;
+    padding: 65px 160px;
   }
   .about .aboutMaybe p {
-    color: #1C56B7;
-    font-size: 24px;
+    color: #1c54b5;
+    font-size: 1.5rem;
   }
   .about .aboutMaybe ul {
     list-style: none;
   }
   .about .aboutMaybe ul li {
     color: #333;
-    font-size: 22px;
+    font-size: 1.3rem;
     margin-top: 30px;
     display: inline-block;
     position: relative;
@@ -1118,7 +1118,7 @@
     margin-top: 100px;
   }
   .about h2 {
-    font-size: 24px;
+    font-size: 1.5rem;
     color: #1C56B7;
     margin-left: 10px;
     position: relative;
@@ -1134,14 +1134,14 @@
     width: calc(100% - 15px);
   }
   .about .aboutHeading {
-    font-size: 24px;
+    font-size: 1.5rem;
     color: #141414;
     margin-top: 60px;
     padding: 0 30px;
   }
   .about .aboutDetailes {
-    margin-top: 50px;
-    padding: 0 23%;
+    margin: 50px auto 0;
+    max-width: 80%;
   }
   .about .aboutDetailes .aboutDetaile {
     background: #DFEEF4;
@@ -1159,9 +1159,9 @@
   }
   .about .aboutDetailes .aboutDetaile .detaileHeading h3 {
     line-height: 65px;
-    margin-left: 25px;
+    margin-left: 15px;
     color: #1C56B7;
-    font-size: 28px;
+    font-size: 1.75rem;
   }
   .about .aboutDetailes .aboutDetaile .detailePoint {
     margin-top: 25px;
@@ -1190,7 +1190,7 @@
     display: none;
   }
   .about .aboutDetailes .aboutDetaile .detailePoint div p {
-    font-size: 14px;
+    font-size: .87rem;
     margin-left: 20px;
     color: #1C56B7;
     line-height: 46px;
@@ -1218,7 +1218,7 @@
   }
   .about .aboutMaybe p {
     color: #1C56B7;
-    font-size: 24px;
+    font-size: 1.5rem;
   }
   .about .aboutMaybe ul {
     list-style: none;
@@ -1226,7 +1226,7 @@
   }
   .about .aboutMaybe ul li {
     color: #141414;
-    font-size: 20px;
+    font-size: 1.25rem;
     position: relative;
     display: inline-block;
     margin: 0 auto;
@@ -1252,7 +1252,7 @@
     margin-top: 70px;
   }
   .about h2 {
-    font-size: 24px;
+    font-size: 1.5rem;
     color: #1C56B7;
     margin-left: 10px;
     position: relative;
@@ -1267,7 +1267,7 @@
     width: calc(100% - 10px);
   }
   .about .aboutHeading {
-    font-size: 20px;
+    font-size: 1.25rem;
     color: #333;
     padding: 0 10px;
     margin-top: 50px;
@@ -1295,7 +1295,7 @@
     line-height: 65px;
     margin-left: 25px;
     color: #1C56B7;
-    font-size: 24px;
+    font-size: 1.5rem;
   }
   .about .aboutDetailes .aboutDetaile .detailePoint {
     margin-top: 25px;
@@ -1324,7 +1324,7 @@
     line-height: 23px;
   }
   .about .aboutDetailes .aboutDetaile .detailePoint div p {
-    font-size: 16px;
+    font-size: 1rem;
     margin-left: 20px;
     color: #1C56B7;
     line-height: 46px;
@@ -1352,7 +1352,7 @@
   }
   .about .aboutMaybe p {
     color: #1C56B7;
-    font-size: 20px;
+    font-size: 1.25rem;
   }
   .about .aboutMaybe ul {
     list-style: none;
@@ -1360,7 +1360,7 @@
   }
   .about .aboutMaybe ul li {
     color: #141414;
-    font-size: 16px;
+    font-size: 1rem;
     position: relative;
     display: inline-block;
   }
@@ -1400,7 +1400,7 @@
             align-items: center;
   }
   .contact p {
-    font-size: 32px;
+    font-size: 2rem;
     font-weight: bold;
     margin-top: 120px;
   }
@@ -1410,7 +1410,7 @@
     width: 467px;
     height: 71px;
     display: inline-block;
-    font-size: 24px;
+    font-size: 1.5rem;
     line-height: 71px;
     margin: 100px 0 65px;
     text-align: center;
@@ -1444,7 +1444,7 @@
             align-items: center;
   }
   .contact p {
-    font-size: 24px;
+    font-size: 1.5rem;
     font-weight: bold;
     margin-top: 80px;
   }
@@ -1455,7 +1455,7 @@
     background: #FCD916;
     color: #133B91;
     display: inline-block;
-    font-size: 16px;
+    font-size: 1rem;
     margin: 68px 0 60px;
     padding: 16px 116px;
     border: 2px solid #133B91;
@@ -1490,7 +1490,7 @@
     padding: 80px 0;
   }
   .contact p {
-    font-size: 24px;
+    font-size: 1.5rem;
     font-weight: bold;
   }
   .contact p .mobile {
@@ -1500,7 +1500,7 @@
     background: #FCD916;
     color: #133B91;
     display: inline-block;
-    font-size: 16px;
+    font-size: 1rem;
     padding: 16px 116px;
     text-align: center;
     margin-top: 68px;
@@ -1523,7 +1523,7 @@
     text-align: center;
   }
   .contact p {
-    font-size: 20px;
+    font-size: 1.25rem;
   }
   .contact .apply {
     background: #FCD916;
@@ -1550,7 +1550,7 @@
     margin-top: 150px;
   }
   .service h2 {
-    font-size: 32px;
+    font-size: 2rem;
     color: #1C56B7;
     margin-left: 30px;
     position: relative;
@@ -1565,7 +1565,7 @@
   }
   .service h3 {
     background: #1C56B7;
-    font-size: 32px;
+    font-size: 2rem;
     height: 90px;
     line-height: 90px;
     width: 320px;
@@ -1576,8 +1576,8 @@
   }
   .service .whatSupport {
     color: #141414;
-    font-size: 28px;
-    margin: 100px 0 0 176px;
+    font-size: 1.75rem;
+    margin: 100px 0 0 4%;
   }
   .service ul {
     background: rgba(28, 86, 183, 0.3);
@@ -1588,7 +1588,7 @@
   }
   .service ul li {
     color: #1C56B7;
-    font-size: 24px;
+    font-size: 1.5rem;
   }
   .service ul li:nth-child(2) {
     margin-top: 30px;
@@ -1619,15 +1619,15 @@
   }
   .service .serviceDetailes .serviceDetaile div .detaileH4 {
     color: #1C56B7;
-    margin-left: 35px;
+    margin-left: 20px;
     line-height: 85px;
-    font-size: 28px;
+    font-size: 1.75rem;
   }
   .service .serviceDetailes .serviceDetaile div .detaileH4Alpha {
     line-height: 43px;
     color: #1C56B7;
     margin-left: 35px;
-    font-size: 28px;
+    font-size: 1.75rem;
   }
   .service .serviceDetailes .serviceDetaile div:nth-child(2) {
     background: #fff;
@@ -1637,7 +1637,7 @@
   }
   .service .serviceDetailes .serviceDetaile div:nth-child(2) p {
     color: #141414;
-    font-size: 24px;
+    font-size: 1.5rem;
     height: 150px;
   }
   .service .example {
@@ -1647,7 +1647,7 @@
   .service .example h4 {
     margin-top: 100px;
     color: #1C56B7;
-    font-size: 32px;
+    font-size: 2rem;
   }
   .service .example ul {
     background: none;
@@ -1658,7 +1658,7 @@
   }
   .service .example ul li {
     color: #141414;
-    font-size: 24px;
+    font-size: 1.5rem;
   }
   .service .example ul li:nth-child(1) {
     margin-bottom: 30px;
@@ -1673,7 +1673,7 @@
     right: 20px;
     bottom: -60px;
     color: #141414;
-    font-size: 18px;
+    font-size: 1.1rem;
   }
   .service .support2 {
     margin-top: 190px;
@@ -1689,7 +1689,7 @@
     padding: 0 87px;
   }
   .service h2 {
-    font-size: 28px;
+    font-size: 1.75rem;
     color: #1C56B7;
     position: relative;
   }
@@ -1705,12 +1705,12 @@
     background: #1C56B7;
     padding: 20px 25px;
     display: inline-block;
-    font-size: 28px;
+    font-size: 1.75rem;
     margin-top: 60px;
     text-align: center;
   }
   .service .whatSupport {
-    font-size: 24px;
+    font-size: 1.5rem;
     margin-top: 50px;
     color: #141414;
   }
@@ -1722,7 +1722,7 @@
   }
   .service ul li {
     color: #1C56B7;
-    font-size: 20px;
+    font-size: 1.25rem;
   }
   .service ul li:nth-child(2) {
     margin-top: 30px;
@@ -1756,20 +1756,20 @@
   }
   .service .serviceDetailes .serviceDetaile div:nth-child(2) p {
     color: #141414;
-    font-size: 20px;
+    font-size: 1.25rem;
   }
   .service .serviceDetailes .serviceDetaile div img {
     width: 65px;
     height: 65px;
   }
   .service .serviceDetailes .serviceDetaile div .detaileH4 {
-    font-size: 24px;
+    font-size: 1.5rem;
     line-height: 65px;
     color: #1C56B7;
     margin-left: 20px;
   }
   .service .serviceDetailes .serviceDetaile div .detaileH4Alpha {
-    font-size: 24px;
+    font-size: 1.5rem;
     line-height: 32px;
     color: #1C56B7;
     margin-left: 15px;
@@ -1779,7 +1779,7 @@
   }
   .service .example h4 {
     color: #1C56B7;
-    font-size: 28px;
+    font-size: 1.75rem;
   }
   .service .example ul {
     background: #fff;
@@ -1789,7 +1789,7 @@
   }
   .service .example ul li {
     color: #141414;
-    font-size: 20px;
+    font-size: 1.25rem;
   }
   .service .example ul li .mobile:nth-child(3) {
     display: none;
@@ -1799,7 +1799,7 @@
     font-weight: bold;
   }
   .service .example p {
-    font-size: 14px;
+    font-size: .87rem;
     color: #141414;
     margin-top: 24px;
     text-align: right;
@@ -1812,7 +1812,7 @@
     padding: 0 30px;
   }
   .service h2 {
-    font-size: 28px;
+    font-size: 1.75rem;
     color: #1C56B7;
     position: relative;
   }
@@ -1828,12 +1828,12 @@
     background: #1C56B7;
     padding: 20px 25px;
     display: inline-block;
-    font-size: 28px;
+    font-size: 1.75rem;
     margin-top: 60px;
     text-align: center;
   }
   .service .whatSupport {
-    font-size: 24px;
+    font-size: 1.5rem;
     margin-top: 50px;
     color: #141414;
   }
@@ -1845,7 +1845,7 @@
   }
   .service ul li {
     color: #1C56B7;
-    font-size: 20px;
+    font-size: 1.25rem;
   }
   .service ul li:nth-child(2) {
     margin-top: 25px;
@@ -1875,20 +1875,20 @@
   }
   .service .serviceDetailes .serviceDetaile div:nth-child(2) p {
     color: #141414;
-    font-size: 20px;
+    font-size: 1.25rem;
   }
   .service .serviceDetailes .serviceDetaile div img {
     width: 65px;
     height: 65px;
   }
   .service .serviceDetailes .serviceDetaile div .detaileH4 {
-    font-size: 24px;
+    font-size: 1.5rem;
     line-height: 65px;
     color: #1C56B7;
     margin-left: 15px;
   }
   .service .serviceDetailes .serviceDetaile div .detaileH4Alpha {
-    font-size: 24px;
+    font-size: 1.5rem;
     line-height: 32px;
     color: #1C56B7;
     margin-left: 15px;
@@ -1898,7 +1898,7 @@
   }
   .service .example h4 {
     color: #1C56B7;
-    font-size: 28px;
+    font-size: 1.75rem;
   }
   .service .example ul {
     background: #fff;
@@ -1908,7 +1908,7 @@
   }
   .service .example ul li {
     color: #141414;
-    font-size: 20px;
+    font-size: 1.25rem;
   }
   .service .example ul li .mobile:nth-child(3) {
     display: none;
@@ -1918,7 +1918,7 @@
     font-weight: bold;
   }
   .service .example p {
-    font-size: 14px;
+    font-size: .87rem;
     color: #141414;
     margin-top: 25px;
     text-align: right;
@@ -1931,7 +1931,7 @@
     padding: 0 10px;
   }
   .service h2 {
-    font-size: 24px;
+    font-size: 1.5rem;
     color: #1C56B7;
     margin-left: 10px;
     position: relative;
@@ -1953,7 +1953,7 @@
     text-align: center;
   }
   .service .whatSupport {
-    font-size: 20px;
+    font-size: 1.25rem;
     text-align: center;
     color: #141414;
   }
@@ -1993,7 +1993,7 @@
   }
   .service .serviceDetailes .serviceDetaile div:nth-child(2) p {
     color: #141414;
-    font-size: 16px;
+    font-size: 1rem;
   }
   .service .serviceDetailes .serviceDetaile div img {
     width: 65px;
@@ -2014,7 +2014,7 @@
   }
   .service .example h4 {
     color: #1C56B7;
-    font-size: 24px;
+    font-size: 1.5rem;
     text-align: center;
   }
   .service .example ul {
@@ -2030,7 +2030,7 @@
     font-weight: bold;
   }
   .service .example p {
-    font-size: 10px;
+    font-size: .6rem;
     color: #141414;
     padding: 0 10px;
     margin-top: 15px;
@@ -2043,7 +2043,7 @@
     padding: 0 100px;
   }
   .customers h2 {
-    font-size: 32px;
+    font-size: 2rem;
     color: #1C56B7;
     margin-left: 30px;
     position: relative;
@@ -2062,7 +2062,7 @@
     padding: 45px 30px;
   }
   .customers .customer .customer1 {
-    font-size: 28px;
+    font-size: 1.75rem;
     font-weight: bold;
     padding: 0 30px;
     position: relative;
@@ -2072,7 +2072,7 @@
   .customers .customer .customer1::before {
     content: "27歳男性";
     color: #333;
-    font-size: 18px;
+    font-size: 1.1rem;
     position: absolute;
     bottom: 0;
     right: -80px;
@@ -2086,7 +2086,7 @@
     width: 585px;
   }
   .customers .customer .customer2 {
-    font-size: 28px;
+    font-size: 1.75rem;
     font-weight: bold;
     padding: 0 30px;
     position: relative;
@@ -2096,7 +2096,7 @@
   .customers .customer .customer2::before {
     content: "24歳女性";
     color: #333;
-    font-size: 18px;
+    font-size: 1.1rem;
     position: absolute;
     bottom: 0;
     right: -80px;
@@ -2112,7 +2112,7 @@
   .customers .customer p {
     margin-top: 65px;
     padding: 0 80px;
-    font-size: 24px;
+    font-size: 1.5rem;
     color: #333;
   }
 }
@@ -2123,7 +2123,7 @@
     padding: 0 87px;
   }
   .customers h2 {
-    font-size: 24px;
+    font-size: 1.5rem;
     color: #1C56B7;
     position: relative;
   }
@@ -2141,49 +2141,49 @@
     margin-top: 50px;
   }
   .customers .customer .customer1 {
-    font-size: 24px;
+    font-size: 1.5rem;
     color: #141414;
     position: relative;
     margin-left: 30px;
   }
   .customers .customer .customer1::before {
     content: "27歳男性";
-    font-size: 14px;
+    font-size: .87rem;
     position: absolute;
-    right: 131px;
+    left: 400px;
     bottom: 0;
   }
   .customers .customer .customer1::after {
     content: "";
     border: 1px solid #707070;
-    width: 90%;
+    width: 100%;
     position: absolute;
     bottom: -5px;
     left: -30px;
   }
   .customers .customer .customer2 {
-    font-size: 24px;
+    font-size: 1.5rem;
     color: #141414;
     position: relative;
     margin-left: 30px;
   }
   .customers .customer .customer2::before {
     content: "24歳女性";
-    font-size: 14px;
+    font-size: .87rem;
     position: absolute;
-    right: 131px;
+    left: 400px;
     bottom: 0;
   }
   .customers .customer .customer2::after {
     content: "";
     border: 1px solid #707070;
-    width: 90%;
+    width: 100%;
     position: absolute;
     bottom: -5px;
     left: -30px;
   }
   .customers .customer p {
-    font-size: 20px;
+    font-size: 1.25rem;
     color: #141414;
     margin-top: 35px;
   }
@@ -2195,7 +2195,7 @@
     padding: 0 30px;
   }
   .customers h2 {
-    font-size: 24px;
+    font-size: 1.5rem;
     color: #1C56B7;
     position: relative;
   }
@@ -2213,16 +2213,16 @@
     margin-top: 50px;
   }
   .customers .customer .customer1 {
-    font-size: 24px;
+    font-size: 1.5rem;
     color: #141414;
     position: relative;
     margin-left: 20px;
   }
   .customers .customer .customer1::before {
     content: "27歳男性";
-    font-size: 12px;
+    font-size: .75rem;
     position: absolute;
-    right: 131px;
+    left: 400px;
     bottom: 0;
   }
   .customers .customer .customer1::after {
@@ -2234,16 +2234,16 @@
     left: -20px;
   }
   .customers .customer .customer2 {
-    font-size: 24px;
+    font-size: 1.5rem;
     color: #141414;
     position: relative;
     margin-left: 20px;
   }
   .customers .customer .customer2::before {
     content: "24歳女性";
-    font-size: 12px;
+    font-size: .75rem;
     position: absolute;
-    right: 131px;
+    left: 400px;
     bottom: 0;
   }
   .customers .customer .customer2::after {
@@ -2256,7 +2256,7 @@
   }
   .customers .customer p {
     padding: 0 20px;
-    font-size: 20px;
+    font-size: 1.25rem;
     color: #141414;
     margin-top: 35px;
   }
@@ -2267,7 +2267,7 @@
     margin-top: 70px;
   }
   .customers h2 {
-    font-size: 24px;
+    font-size: 1.5rem;
     color: #1C56B7;
     margin-left: 10px;
     position: relative;
@@ -2287,14 +2287,14 @@
     margin-top: 35px;
   }
   .customers .customer .customer1 {
-    font-size: 16px;
+    font-size: 1rem;
     color: #141414;
     position: relative;
     margin-left: 10px;
   }
   .customers .customer .customer1::before {
     content: "27歳男性";
-    font-size: 12px;
+    font-size: .75rem;
     position: absolute;
     bottom: -20px;
     left: 0;
@@ -2308,14 +2308,14 @@
     left: -10px;
   }
   .customers .customer .customer2 {
-    font-size: 16px;
+    font-size: 1rem;
     color: #141414;
     position: relative;
     margin-left: 10px;
   }
   .customers .customer .customer2::before {
     content: "24歳女性";
-    font-size: 12px;
+    font-size: .75rem;
     position: absolute;
     bottom: -20px;
     left: 0;
@@ -2330,7 +2330,7 @@
   }
   .customers .customer p {
     padding: 0 10px;
-    font-size: 14px;
+    font-size: .87rem;
     color: #141414;
     margin-top: 55px;
   }
@@ -2342,7 +2342,7 @@
     padding: 0 100px;
   }
   .comparison h2 {
-    font-size: 32px;
+    font-size: 2rem;
     color: #1C56B7;
     margin-left: 30px;
     position: relative;
@@ -2370,7 +2370,7 @@
   }
   .comparison p {
     margin-top: 90px;
-    font-size: 28px;
+    font-size: 1.75rem;
     color: #1C56B7;
     text-align: center;
   }
@@ -2382,7 +2382,7 @@
     padding: 0 87px;
   }
   .comparison h2 {
-    font-size: 28px;
+    font-size: 1.75rem;
     color: #1C56B7;
     position: relative;
   }
@@ -2410,7 +2410,7 @@
   .comparison p {
     margin-top: 50px;
     color: #1C56B7;
-    font-size: 24px;
+    font-size: 1.5rem;
     text-align: center;
     font-weight: bold;
   }
@@ -2425,7 +2425,7 @@
     padding: 0 45px;
   }
   .comparison h2 {
-    font-size: 24px;
+    font-size: 1.5rem;
     color: #1C56B7;
     position: relative;
   }
@@ -2453,7 +2453,7 @@
   .comparison p {
     margin-top: 50px;
     color: #1C56B7;
-    font-size: 24px;
+    font-size: 1.5rem;
     text-align: center;
     font-weight: bold;
   }
@@ -2467,7 +2467,7 @@
     margin-top: 70px;
   }
   .comparison h2 {
-    font-size: 24px;
+    font-size: 1.5rem;
     color: #1C56B7;
     margin-left: 10px;
     position: relative;
@@ -2498,7 +2498,7 @@
   .comparison p {
     margin-top: 50px;
     color: #1C56B7;
-    font-size: 20px;
+    font-size: 1.25rem;
     text-align: center;
   }
 }
@@ -2509,7 +2509,7 @@
     padding: 0 100px;
   }
   .questions h2 {
-    font-size: 32px;
+    font-size: 2rem;
     color: #1C56B7;
     margin-left: 30px;
     position: relative;
@@ -2528,7 +2528,7 @@
   }
   .questions .question .drop {
     color: #1C56B7;
-    font-size: 24px;
+    font-size: 1.5rem;
     padding: 10px 30px;
     -webkit-box-shadow: 0 0 3px #141414;
             box-shadow: 0 0 3px #141414;
@@ -2575,7 +2575,7 @@
   }
   .questions .question .down {
     color: #333;
-    font-size: 28px;
+    font-size: 1.75rem;
     margin-top: 5px;
     display: none;
   }
@@ -2587,7 +2587,7 @@
     padding: 0 87px;
   }
   .questions h2 {
-    font-size: 24px;
+    font-size: 1.5rem;
     color: #1C56B7;
     position: relative;
   }
@@ -2604,7 +2604,7 @@
   }
   .questions .question .drop {
     color: #1C56B7;
-    font-size: 20px;
+    font-size: 1.25rem;
     font-weight: bold;
     padding: 10px 30px;
     -webkit-box-shadow: 0 0 3px #141414;
@@ -2652,7 +2652,7 @@
   }
   .questions .down {
     color: #141414;
-    font-size: 24px;
+    font-size: 1.5rem;
     margin-top: 5px;
     font-weight: bold;
     display: none;
@@ -2665,7 +2665,7 @@
     padding: 0 30px;
   }
   .questions h2 {
-    font-size: 24px;
+    font-size: 1.5rem;
     color: #1C56B7;
     position: relative;
   }
@@ -2682,7 +2682,7 @@
   }
   .questions .question .drop {
     color: #1C56B7;
-    font-size: 20px;
+    font-size: 1.25rem;
     font-weight: bold;
     padding: 10px 30px;
     -webkit-box-shadow: 0 0 3px #141414;
@@ -2730,7 +2730,7 @@
   }
   .questions .down {
     color: #141414;
-    font-size: 24px;
+    font-size: 1.5rem;
     margin-top: 5px;
     font-weight: bold;
     display: none;
@@ -2742,7 +2742,7 @@
     margin-top: 70px;
   }
   .questions h2 {
-    font-size: 24px;
+    font-size: 1.5rem;
     color: #1C56B7;
     margin-left: 10px;
     position: relative;
@@ -2762,7 +2762,7 @@
   }
   .questions .question .drop {
     color: #1C56B7;
-    font-size: 16px;
+    font-size: 1rem;
     font-weight: bold;
     padding: 5px 0;
     -webkit-box-shadow: 0 0 3px #141414;
@@ -2810,7 +2810,7 @@
   }
   .questions .down {
     color: #141414;
-    font-size: 20px;
+    font-size: 1.25rem;
     margin-top: 5px;
     font-weight: bold;
     display: none;
@@ -2819,7 +2819,7 @@
 
 @media (min-width: 1024px) {
   .applyAgain {
-    background: url("./images/bottom-request__img.png");
+    background: url(./bottom-request__img.png);
     width: 100%;
     margin-top: 150px;
     background-size: cover;
@@ -2833,17 +2833,17 @@
     padding: 60px 0;
   }
   .applyAgain div p:nth-child(1) {
-    font-size: 28px;
+    font-size: 1.75rem;
   }
   .applyAgain div p:nth-child(2) {
-    font-size: 120px;
+    font-size: 7.5rem;
     border-bottom: 1px solid #fff;
     width: 845px;
     display: inline-block;
     font-weight: bold;
   }
   .applyAgain div p:nth-child(3) {
-    font-size: 20px;
+    font-size: 1.25rem;
     margin-top: 21px;
   }
   .applyAgain div .apply {
@@ -2852,7 +2852,7 @@
     width: 467px;
     height: 71px;
     display: inline-block;
-    font-size: 24px;
+    font-size: 1.5rem;
     line-height: 71px;
     margin-top: 60px;
     border: 2px solid #133B91;
@@ -2869,7 +2869,7 @@
 @media (min-width: 769px) and (max-width: 1024px) {
   .applyAgain {
     margin-top: 100px;
-    background: url("./images/bottom-request__img.png");
+    background: url(./bottom-request__img.png);
     background-position: center;
     background-size: cover;
     padding: 58px 133px;
@@ -2880,16 +2880,16 @@
     padding: 30px 45px;
   }
   .applyAgain div p:nth-child(1) {
-    font-size: 14px;
+    font-size: .87rem;
   }
   .applyAgain div p:nth-child(2) {
-    font-size: 65px;
+    font-size: 4rem;
     border-bottom: 1px solid #fff;
     font-weight: bold;
     margin: 23px auto 0;
   }
   .applyAgain div p:nth-child(3) {
-    font-size: 20px;
+    font-size: 1.25rem;
     margin-top: 15px;
   }
   .applyAgain div .apply {
@@ -2912,7 +2912,7 @@
 @media (min-width: 480px) and (max-width: 768px) {
   .applyAgain {
     margin-top: 70px;
-    background: url("./images/bottom-request__img.png");
+    background: url(./bottom-request__img.png);
     background-position: center;
     background-size: cover;
     padding: 45px 72px;
@@ -2923,16 +2923,16 @@
     padding: 30px 45px;
   }
   .applyAgain div p:nth-child(1) {
-    font-size: 14px;
+    font-size: .87rem;
   }
   .applyAgain div p:nth-child(2) {
-    font-size: 65px;
+    font-size: 4rem;
     border-bottom: 1px solid #fff;
     font-weight: bold;
     margin: 23px auto 0;
   }
   .applyAgain div p:nth-child(3) {
-    font-size: 20px;
+    font-size: 1.25rem;
     margin-top: 15px;
   }
   .applyAgain div .apply {
@@ -2955,7 +2955,7 @@
 @media (max-width: 480px) {
   .applyAgain {
     margin-top: 70px;
-    background: url("./images/bottom-request__img.png");
+    background: url(./bottom-request__img.png);
     background-position: center;
     background-size: cover;
     padding: 100px 10px;
@@ -2966,17 +2966,17 @@
     padding: 54px 0 38px 0;
   }
   .applyAgain div p:nth-child(1) {
-    font-size: 20px;
+    font-size: 1.25rem;
   }
   .applyAgain div p:nth-child(2) {
-    font-size: 60px;
+    font-size: 3.75rem;
     border-bottom: 3px solid #fff;
     font-weight: bold;
     width: 300px;
     margin: 30px auto 0;
   }
   .applyAgain div p:nth-child(3) {
-    font-size: 11px;
+    font-size: .68rem;
     margin-top: 25px;
   }
   .applyAgain div .apply {
@@ -3017,7 +3017,7 @@
   }
   footer p a {
     text-decoration: none;
-    font-size: 40px;
+    font-size: 2.5rem;
     letter-spacing: 3px;
   }
   footer nav {
@@ -3066,7 +3066,7 @@
     margin-right: 18px;
   }
   footer nav ul li a {
-    font-size: 20px;
+    font-size: 1.25rem;
   }
   footer small {
     position: absolute;
@@ -3090,7 +3090,7 @@
   }
   footer p a {
     text-decoration: none;
-    font-size: 28px;
+    font-size: 1.75rem;
     font-weight: bold;
     letter-spacing: 3px;
   }
@@ -3138,7 +3138,7 @@
     margin-right: 15px;
   }
   footer nav ul li a {
-    font-size: 16px;
+    font-size: 1rem;
   }
   footer small {
     position: absolute;
@@ -3161,7 +3161,7 @@
     padding: 40px 30px;
   }
   footer p {
-    font-size: 28px;
+    font-size: 1.75rem;
     font-weight: bold;
   }
   footer ul {
@@ -3177,7 +3177,7 @@
     margin-left: 10px;
   }
   footer ul .bg .hover {
-    font-size: 16px;
+    font-size: 1rem;
     color: #1C56B7;
     background: #FCD916;
     border: 2px solid #133B91;
@@ -3191,7 +3191,7 @@
     transition: .5s;
   }
   footer ul .bg .twitter {
-    font-size: 16px;
+    font-size: 1rem;
     color: #1C56B7;
     background: #FCD916;
     border: 2px solid #133B91;
@@ -3227,7 +3227,7 @@
     padding: 40px 10px;
   }
   footer p {
-    font-size: 28px;
+    font-size: 1.75rem;
     font-weight: bold;
   }
   footer ul {
@@ -3243,7 +3243,7 @@
     margin-left: 10px;
   }
   footer ul .bg a {
-    font-size: 16px;
+    font-size: 1rem;
     color: #1C56B7;
     background: #FCD916;
     border: 2px solid #133B91;
